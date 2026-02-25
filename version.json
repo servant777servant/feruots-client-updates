@@ -1,13 +1,13 @@
 {
-    "embedded":  false,
-    "build_time":  "16:55:10",
-    "version":  1771952102,
-    "binary_checksum":  "6e1a2288",
-    "download_url":  "https://github.com/servant777servant/feruots-client-updates/releases/download/v1771952102/feruots_update.zip",
-    "date":  "2026-02-24",
+    "embedded":  true,
+    "build_time":  "11:37:20",
+    "version":  1772019438,
+    "binary_checksum":  "1bbbe61f",
+    "download_url":  "https://github.com/servant777servant/feruots-client-updates/releases/download/v1772019438/feruots_update.zip",
+    "date":  "2026-02-25",
     "data_version":  0,
-    "binary_url":  "https://github.com/servant777servant/feruots-client-updates/releases/download/v1771952102/FeruOTS.exe",
-    "build_date":  "2026-02-24",
-    "changelog":  "Update v1771952102",
+    "binary_url":  "https://github.com/servant777servant/feruots-client-updates/releases/download/v1772019438/FeruOTS.exe",
+    "build_date":  "2026-02-25",
+    "changelog":  "Update v1772019438",
     "binary_file":  "FeruOTS.exe"
 }
